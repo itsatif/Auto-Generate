@@ -1,10 +1,10 @@
 {
   "displayedColumns": [
-    "id",
-    "publisherName",
-    "title",
-    "publishDate",
-    "country",
-    "printCopies"
+    "Id",
+    "Publisher Name",
+    "Title",
+    "Publish Date",
+    "Country",
+    "Print Copies"
   ]
 }
