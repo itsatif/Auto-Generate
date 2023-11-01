@@ -1,0 +1,10 @@
+{
+  "displayedColumns": [
+    "id",
+    "publisherName",
+    "title",
+    "publishDate",
+    "country",
+    "printCopies"
+  ]
+}
